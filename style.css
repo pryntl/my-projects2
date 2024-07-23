@@ -138,6 +138,7 @@ a {
   padding-left: 15px;
   padding-right: 15px;
   border: 2px solid #641111;
+  cursor: pointer;
 }
 #description1:hover {
   border: 2px solid white;
